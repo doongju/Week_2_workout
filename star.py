@@ -12,4 +12,4 @@ p = Pyramid(height)
 p.print_reverse_star_pyramid()
 
 
-#commit 
+#commit 수정
